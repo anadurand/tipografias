@@ -45,3 +45,15 @@ h5{
 .box p{
   padding: 1% 2%;
 }
+.box:hover .red{
+  color: rgba(224, 22, 67, 1);
+}
+.box:hover .cafe{
+  color: rgba(106, 51, 11, 1);
+}
+.box:hover .orange{
+  color: rgba(224, 105, 11, 1);
+}
+.box:hover .pink{
+  color: rgba(205, 36, 122, 1);
+}

@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?5811an');
-  src:  url('fonts/icomoon.eot?5811an#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?5811an') format('truetype'),
-    url('fonts/icomoon.woff?5811an') format('woff'),
-    url('fonts/icomoon.svg?5811an#icomoon') format('svg');
+  src:  url('../fonts/icomoon.eot?5811an');
+  src:  url('../fonts/icomoon.eot?5811an#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?5811an') format('truetype'),
+    url('../fonts/icomoon.woff?5811an') format('woff'),
+    url('../fonts/icomoon.svg?5811an#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -168,4 +168,3 @@
 .icon-world:before {
   content: "\e92e";
 }
-
