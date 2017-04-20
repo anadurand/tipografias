@@ -1,8 +1,12 @@
 *{
   box-sizing: border-box;
 }
+.contenedor{
+  width: 100%;
+  margin: 0 3%;
+}
 .box{
-  width: 220px;
+  width: 18%;
   height: 350px;
   box-shadow: 8px 10px 14px -8px #CECECE;
   float: left;
@@ -19,6 +23,7 @@
 h2{
   font-family: "Source Code Pro", monospace;
   color: #777777;
+  font-size: 23px;
 }
 h5{
   font-style: italic;
@@ -36,4 +41,7 @@ h5{
 }
 .box:hover .blue{
   color: rgba(62, 161, 225, 1);
+}
+.box p{
+  padding: 1% 2%;
 }
